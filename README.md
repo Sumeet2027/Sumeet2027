@@ -67,16 +67,6 @@ Python Developer | AI/ML | Data Analytics | Building Intelligent Applications
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sumeet2027&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumeet2027/Sumeet2027/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumeet2027/Sumeet2027/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sumeet2027/Sumeet2027/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center">
